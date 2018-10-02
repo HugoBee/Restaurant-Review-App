@@ -1,8 +1,9 @@
 ## Overview
-This is project for Udacity Front-End Nanodegree. A static broken code was given to us to fix. Using our new found skills we have to include accessbility features, a service worker for offline viewing, and maintain all of its current functionality.
+This is a project for the Udacity Front-End Nanodegree. A static broken application code was given to us to fix. Using our new found skills we have to include accessbility features, a service worker for offline viewing, make it responsive and maintain all of its current functionality.
 
 ## Stage One
 This part of the project focuses on the application to be
+
 - Accesible
 - Have Data offline
 - Mobile Responsive Ready
